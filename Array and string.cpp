@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-
+//Main Program
 int main(){
 	int grades[5];
 	int size = 5;
